@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.login.resources
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\bin\Debug\Project_Restaurent.exe.config
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\bin\Debug\Project_Restaurent.exe
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\bin\Debug\Project_Restaurent.pdb
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.exe
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.pdb
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.TableManager.resources
+C:\Users\LENOVO\Desktop\đồ án c#\Project_Restaurent\Project_Restaurent\obj\Debug\Project_Restaurent.Admin.resources
